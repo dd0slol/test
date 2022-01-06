@@ -1,0 +1,17 @@
+{
+    "URL_CLIENT" : "http://vavilon-mobile.xyz/client.zip",
+    "URL_FILES" : "http://vavilon-mobile.xyz/files.zip",
+    "URL_LITE_CACHE" : "http://vavilon-mobile.xyz/game.zip",
+    "URL_FULL_CACHE" : "http://stg.mimas.feralhosting.com/st/gm/full_cache.zip",
+    "URL_VERSIONS" : "http://vavilon-mobile.xyz/v1_versions.json",
+    "URL_GAME_SETTINGS" : "http://vavilon-mobile.xyz/gta_sa.set",
+    "URL_NEWS" : "http://vavilon-mobile.xyz/dimka/v1_news.json",
+    "URL_SERVERS": "https://dd0slol.github.io/mq/v1_servers.json",
+    "URL_VK": "https://vk.com/william.bond",
+    "URL_NOTIFICATIONS": "http://vavilon-mobile.xyz/dimka/v0_notifications.json",
+    "URL_MODPACK": "http://vavilon-mobile.xyz/dimka/kytak.zip",
+    "URL_BACKUP": "http://vavilon-mobile.xyz/dimka/kytakkzip",
+    "URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/clieиррnt20.zip",
+    "URL_CONFIG": "http://vavilon-mobile.xyz/dimka/v1_config.json",
+    "URL_LAUNCHER": "iz-rp.ru/dimka/launcher.apk"
+}
